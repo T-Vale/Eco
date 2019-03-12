@@ -1,0 +1,8 @@
+name=MCP9700ETO;
+type=temperature;
+unit=oC;
+grade=1;
+m=0.3223;
+b=-50;
+graphmin=0;
+graphmax=40;

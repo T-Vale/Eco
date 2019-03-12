@@ -1,0 +1,8 @@
+name=30K6A1A;
+type=temperature;
+unit=oC;
+grade=1;
+m=0.09188;
+b=-14.8511;
+graphmin=0;
+graphmax=40;

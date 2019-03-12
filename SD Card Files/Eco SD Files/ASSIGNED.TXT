@@ -1,0 +1,6 @@
+ADC0:na;
+ADC1:na;
+ADC2:na;
+ADC3:na;
+ADC4:na;
+ADC5:na;

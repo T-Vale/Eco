@@ -1,0 +1,8 @@
+name=Gas O2;
+type=oxygen;
+unit=%;
+grade=1;
+m=0.024156;
+b=0.0;
+graphmin=0;
+graphmax=30;

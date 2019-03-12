@@ -1,0 +1,8 @@
+name=HIH-4010-001;
+type=humidity;
+unit=%;
+grade=1;
+m=0.15767;
+b=-25.81;
+graphmin=0;
+graphmax=100;

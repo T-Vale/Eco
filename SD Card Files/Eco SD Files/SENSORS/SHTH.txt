@@ -1,0 +1,8 @@
+name=SHT31H;
+type=humidity;
+unit=%;
+grade=1;
+m=1;
+b=0;
+graphmin=0;
+graphmax=100;

@@ -1,0 +1,8 @@
+name=BLANK;
+type=raw;
+unit=na;
+grade=1;
+m=1;
+b=0;
+graphmin=0;
+graphmax=1023;

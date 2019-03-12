@@ -1,0 +1,8 @@
+name=Gas CO2;
+type=CO2;
+unit=ppm;
+grade=1;
+m=10.0708;
+b=-1250;
+graphmin=0;
+graphmax=5000;

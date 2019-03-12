@@ -1,0 +1,8 @@
+name=HIH-5030;
+type=humidity;
+unit=%;
+grade=1;
+m=0.1537;
+b=-23.8208;
+graphmin=0;
+graphmax=100;

@@ -1,0 +1,8 @@
+name=GEMS3100B0010;
+type=pressure;
+unit=mbar;
+grade=1;
+m=12.032258;
+b=-1200;
+graphmin=0;
+graphmax=10000;
